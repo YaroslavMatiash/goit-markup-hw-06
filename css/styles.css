@@ -339,7 +339,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 1200px) and (min-resolution: 192dpi) {
+@media only screen and (min-width: 1158px) and (min-resolution: 192dpi) {
   .hero-title {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
